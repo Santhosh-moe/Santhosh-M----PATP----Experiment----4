@@ -109,3 +109,5 @@ plt.show()
 
 
 ## Result
+
+Thus, a Support Vector Machine (SVM) model was implemented using Python for classification. Its performance was analysed to understand its accuracy and effectiveness, and the objective was successfully achieved.
